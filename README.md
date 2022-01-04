@@ -1,14 +1,21 @@
-Python Hobbyist
+# 👋 Hi, I’m @JoshPaulie
 
-<!---
-- 👋 Hi, I’m @JoshPaulie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+## I’m interested in 🥰
+* Python 🐍 
+* CompSci 🤖
+* Adobe CC 🎨
+* Special Education 🤲🏼
+* Humanism 🧬
 
-<!---
-JoshPaulie/JoshPaulie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I’m learning about 📚
+* More advanced topics in technologies I know 💭
+* Teaching/tutoring others about my favorite subjects 👨🏼‍🏫
+
+## Current Projects 📽
+* Making infographics 📊
+* Developing tutorials 📸
+
+## My Links 🏡
+- [Twitter (Best contact)](https://mobile.twitter.com/itsbexli) 🐣
+- [Hashnode Blog](https://bexli.hashnode.dev/) 📝
+- YT Channel **coming soon***
