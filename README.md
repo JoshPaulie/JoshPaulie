@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @JoshPaulie
 
-## I’m interested in 🥰
+## Hobbies include
 * Python 🐍 
 * CompSci 🤖
 * Adobe CC 🎨
