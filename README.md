@@ -4,7 +4,7 @@
 * Python 🐍 
 * CompSci 🤖
 * Adobe CC 🎨
-* Special Education 🤲🏼
+* Special Education 🤝
 * Humanism 🧬
 
 ## I’m learning about 📚
