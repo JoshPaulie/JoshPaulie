@@ -1,24 +1,12 @@
 # 👋 Hi, I’m @JoshPaulie
 
-![Discord](https://img.shields.io/discord/911988376771657789?color=9fe2bf&label=Discord&logo=Bexli%27s%20PySchool&logoColor=9fe2bf&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/itsBexli?color=9fe2bf&label=Twitter&logoColor=9fe2bf&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/itsBexli?color=9fe2bf&label=Twitter&logoColor=9fe2bf)
+![Discord](https://img.shields.io/discord/911988376771657789?color=9fe2bf&label=Discord&logo=Bexli%27s%20PySchool&logoColor=9fe2bf)
+![Py-Lover](https://img.shields.io/badge/Python-Lover-9fe2bf)
 
-## Hobbies include
-* Python 🐍 
-* CompSci 🤖
-* Adobe CC 🎨
-* Special Education 🤝
-* Humanism 🧬
+## About
+I'm currently working in special education, hoping to shift gears to something more programming related.
 
-## I’m learning about 📚
-* More advanced topics in technologies I know 💭
-* Teaching/tutoring others about my favorite subjects 👨🏼‍🏫
+I offer Python tutoring on a pay-what-you-can model. Don't hesitate to reach out, let's start your Python journey. Discord link in badge above.
 
-## Current Projects 📽
-* Making infographics 📊
-* Developing tutorials 📸
-
-## My Links 🏡
-- [Twitter (Best contact)](https://mobile.twitter.com/itsbexli) 🐣
-- [Hashnode Blog](https://bexli.hashnode.dev/) 📝
-- YT Channel **coming soon***
+I'm for hire! No formal experience, __eager__ to learn. Proficient (and fixated) with Python. Available for full-time remote work starting June '22. 
