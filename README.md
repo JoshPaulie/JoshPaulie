@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @JoshPaulie
 
-![Discord](https://img.shields.io/discord/911988376771657789?color=9fe2bf&label=Discord&logo=Bexli%27s%20PySchool&logoColor=9fe2bf)
+![Discord](https://img.shields.io/discord/911988376771657789?color=9fe2bf&label=Discord&logo=Bexli%27s%20PySchool&logoColor=9fe2bf&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/itsBexli?color=9fe2bf&label=Twitter&logoColor=9fe2bf&style=flat-square)
 
 ## Hobbies include
 * Python 🐍 
