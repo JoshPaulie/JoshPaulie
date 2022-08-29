@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @JoshPaulie
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsBexli?color=9fe2bf&label=Twitter&logoColor=9fe2bf)](https://twitter.com/itsbexli)
-[![Discord](https://img.shields.io/discord/911988376771657789?color=9fe2bf&label=Discord&logo=Discord&logoColor=9fe2bf)](https://discord.gg/EP9cdacXnR)
 [![LinkedIn](https://img.shields.io/badge/🤝-LinkedIn-9fe2bf)](https://www.linkedin.com/in/joshua-lee-88a8a5154)
 ![Py-Lover](https://img.shields.io/badge/Python-Lover-9fe2bf)
 
