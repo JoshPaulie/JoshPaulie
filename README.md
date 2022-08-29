@@ -6,8 +6,6 @@
 ![Py-Lover](https://img.shields.io/badge/Python-Lover-9fe2bf)
 
 ## About
-I'm currently working in special education, hoping to shift gears to something more programming related.
+CompSci Student. I'm currently working in special education, hoping to shift gears to something more programming related.
 
-I offer Python tutoring on a pay-what-you-can model. Don't hesitate to reach out, let's start your Python journey. Discord link in badge above.
-
-I'm for hire! No formal experience, __eager__ to learn. Proficient (and fixated) with Python. Available for full-time remote work starting June '22. Contact via [LinkedIn](https://www.linkedin.com/in/joshua-lee-88a8a5154) 
+I'm for hire! Proficient (and fixated) with Python. Available for full-time remote work. Contact via [LinkedIn](https://www.linkedin.com/in/joshua-lee-88a8a5154) 
