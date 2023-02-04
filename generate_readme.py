@@ -158,3 +158,4 @@ md_text(
 md_text(
     f"Contact via {md_url('LinkedIn', 'https://www.linkedin.com/in/joshua-lee-88a8a5154')} or {md_url('Twitter', 'https://twitter.com/itsbexli')}"
 )
+print(":)")
