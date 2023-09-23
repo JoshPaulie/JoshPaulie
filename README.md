@@ -8,7 +8,7 @@ I'm a computer science student currently working in special education, hoping to
 ### Interests
 ![After Effects](https://img.shields.io/badge/After%20Effects-24273a?logo=Adobe%20After%20Effects&logoColor=b7bdf8) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-24273a?logo=Adobe%20Premiere%20Pro&logoColor=c6a0f6) ![Illustrator](https://img.shields.io/badge/Illustrator-24273a?logo=Adobe%20Illustrator&logoColor=f5a97f) ![Blender](https://img.shields.io/badge/Blender-24273a?logo=Blender&logoColor=f5a97f) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-24273a?logo=Raspberry%20Pi&logoColor=ed8796)
 ### I'm for hire!
-Proficient (and fixated) with Python. Avaliable for intership opprotunities or full-time remote work.
+Proficient (and fixated) with Python. Available for contract work
 
 Contact via [LinkedIn](https://www.linkedin.com/in/joshua-lee-88a8a5154) or [Twitter](https://twitter.com/itsbexli)
 
